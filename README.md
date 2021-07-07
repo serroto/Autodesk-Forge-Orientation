@@ -1,1 +1,1 @@
-# Learn Autodesk Forge Tutorials Followed and interpreted
+# Learn Autodesk Forge tutorials followed and interpreted
